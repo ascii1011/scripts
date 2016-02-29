@@ -1,0 +1,9 @@
+### intended use by me only :), everyone else use at your own risk. ###
+
+# first update
+sudo apt-get update && sudo apt-get upgrade
+
+# reboot
+
+# install basics
+sudo apt-get install tree git emacs screen multitail vim -y -q
